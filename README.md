@@ -2,6 +2,8 @@
 
 안녕하세요. 학생 개발자 행보칸코딩입니다.
 
+![alt 로고](/logo.png)
+
 ## 2021 (중3)
 
 * 📚 [converter-images](https://github.com/hangbokancoding/converter-images "")
