@@ -4,6 +4,8 @@
 
 ![alt 로고](/logo.png)
 
+강좌를 보고 싶다면? [여기](https://edu.goorm.io/teacher/854/%ED%96%89%EB%B3%B4%EC%B9%B8%EC%BD%94%EB%94%A9/lecture)로 오세요~
+
 ## 2021 (중3)
 
 * 📚 [converter-images](https://github.com/hangbokancoding/converter-images "")
